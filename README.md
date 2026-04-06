@@ -16,9 +16,17 @@ O objetivo deste projeto foi praticar a criação de interfaces de login, trabal
 - Responsividade para diferentes dispositivos
 
 ## 📱 Responsividade
-O projeto foi desenvolvido pensando em diferentes tamanhos de tela:
-- 📱 Mobile
-- 💻 Desktop
+
+O projeto foi desenvolvido para se adaptar a diferentes telas:
+
+### 📱 Mobile
+![Mobile](./capa-projeto-smartphone.png)
+
+### 📲 Tablet
+![Tablet](./capa-projeto-tablet.png)
+
+### 💻 Desktop
+![Desktop](./capa-projeto-desktop.png)
 
 ## 🧠 Aprendizados
 Durante esse projeto, pratiquei:
