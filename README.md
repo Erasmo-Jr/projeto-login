@@ -1,3 +1,7 @@
+## 📸 Preview
+
+![Desktop](./capa-projeto-desktop.png)
+
 # 🔐 Projeto Login
 
 Este é um projeto de tela de login desenvolvido com HTML e CSS, com foco em layout moderno, responsividade e boas práticas de front-end.
